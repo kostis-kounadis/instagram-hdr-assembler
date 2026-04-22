@@ -54,7 +54,7 @@ Because this pipeline relies on a two-file system, your export process from Adob
 | **File type** | JPG | JPG (not AVIF or JXL) |
 | **Color Space** | sRGB | HDR (e.g. Display P3 or Rec. 2020) |
 | **Compatibility** | OFF | OFF |
-| **Dimensions** | Instagram supported (i.e., 1080x1080, 1080x566 landscape, 1920x1080 portrait) | **MUST MATCH SDR EXACTLY** |
+| **Dimensions** | Instagram supported (i.e., 1080x1080px, 1080x566px landscape, 1080x1350px portrait) | **MUST MATCH SDR EXACTLY** |
 
 ### Running the Script
 
