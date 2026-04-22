@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment / OS
+.DS_Store
+
+# Logs
+*.log
+
+# Third-party source / compiled
+libultrahdr/
+
+# Assets and Tests
+test_files/
+source_files/
+input/
+output/
+analysis/
+
+# IDE
+.vscode/
+.idea/
