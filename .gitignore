@@ -18,6 +18,7 @@ source_files/
 input/
 output/
 analysis/
+LLM_CONTEXT.md
 
 # IDE
 .vscode/
